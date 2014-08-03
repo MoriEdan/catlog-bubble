@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 	package="com.tooleap.logcat" android:installLocation="auto"
-	android:versionName="1.0.0" android:versionCode="42">
+	android:versionName="1.0.0" android:versionCode="43">
 	<application android:icon="@drawable/icon" android:label="@string/app_name">
 		<activity android:name="com.tooleap.logcat.LogcatActivity" android:label="@string/app_name"
 			android:configChanges="keyboard|keyboardHidden|orientation"
@@ -83,7 +83,7 @@
             </intent-filter>
         </receiver>
 
-        <meta-data android:name="com.tooleap.sdk.apiKey" android:value="36AC6942EE246083CEE" />
+        <meta-data android:name="com.tooleap.sdk.apiKey" android:value="E104557DFB65724AE41" />
         <!-- Tooleap End -->
 
 	</application>
