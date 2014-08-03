@@ -28,7 +28,7 @@
     <string name="delimiter">, </string>
     
     <string name="dialog_compiling_log">Bygger logg…</string>
-    <string name="dialog_for_donate">För <b>extra färguppsättningar</b>,\n ladda ner <a href="market://details?id=com.nolanlawson.logcat.donate">CatLog Donate</a></string>
+    <string name="dialog_for_donate">För <b>extra färguppsättningar</b>,\n ladda ner <a href="market://details?id=com.tooleap.logcat.donate">CatLog Donate</a></string>
     <string name="dialog_for_widget">För en <b>widget</b>,\ntryck Home → Long\npress → Widgets</string>
     <string name="dialog_initializing_recorder">Laddar inspelare…</string>
     <string name="dialog_loading_updates">Laddar uppdateringar…</string>

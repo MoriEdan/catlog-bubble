@@ -24,7 +24,7 @@
     
     <string name="dialog_compiling_log">Compilation de journaux en cours…</string>
     <string name="dialog_for_donate">Pour d\'autres <b>arrangements de couleurs</b>: \
-Téléchargez <a href="market://details?id=com.nolanlawson.logcat.donate">CatLog Donate</a></string>
+Téléchargez <a href="market://details?id=com.tooleap.logcat.donate">CatLog Donate</a></string>
     <string name="dialog_for_widget">Pour un <b>widget</b>: Ecran d\'acceuil→ Appuyez et maintenez→ Choisissez «Widgets»</string>
     <string name="dialog_initializing_recorder">Chargement d\'enregistreur en cours…</string>
     <string name="dialog_loading_updates">Mise à jour en cours…</string>

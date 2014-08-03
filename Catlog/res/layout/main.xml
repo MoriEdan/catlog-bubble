@@ -205,7 +205,7 @@
         android:indeterminate="true"
         android:visibility="gone" />
 
-    <com.nolanlawson.logcat.widget.ExceptionCatchingListView
+    <com.tooleap.logcat.widget.ExceptionCatchingListView
         android:id="@android:id/list"
         android:layout_width="fill_parent"
         android:layout_height="0px"

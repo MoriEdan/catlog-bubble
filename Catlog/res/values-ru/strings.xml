@@ -80,7 +80,7 @@
     <string name="delete_saved_log">Удалить сохр. логи</string>
     <string name="delimiter">, </string>
     <string name="dialog_compiling_log">Компиляция лога…</string>
-    <string name="dialog_for_donate">Для получения <b>разных\nтем</b>, загрузите\n<a href="market://details?id=com.nolanlawson.logcat.donate">Помочь CatLog</a></string>
+    <string name="dialog_for_donate">Для получения <b>разных\nтем</b>, загрузите\n<a href="market://details?id=com.tooleap.logcat.donate">Помочь CatLog</a></string>
     <string name="dialog_for_widget">Нужен <b>виджет</b>?\ Домашний экран→ Долгое\nнажатие → Виджеты</string>
     <string name="dialog_initializing_recorder">Загрузка записей…</string>
     <string name="dialog_loading_updates">Загрузка обновлений…</string>
